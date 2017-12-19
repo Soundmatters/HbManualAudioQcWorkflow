@@ -21,21 +21,23 @@ ADD IMAGE
 •	the program content has no break in continuity  
 •	the program content is consistent with the data gathered in step one[see above]  
 
-4.	Inspect the audio file through playback, signal analysis meters, and the amplitude statistics generated in step 2 above.   Assure that the following technical and production characteristics are appropriate:  
+4.	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file, as well as with signal analysis meters, and the amplitude statistics generated in step 2 above.   Assure that the following technical and production characteristics are consistant and appropriate:  
 •	Speed  
 •	Playback direction  
 •	Channel balance  
 •	Cross-talk  
 •	De-emphasis (EQ)  
 •	File functionality  
-•	Phase/correlation/soundfield 
+•	Phase.    
+•	Correlation.  
+•	Soundfield.   
 •	Clipped samples  
 •	DC offset  
 •	Loudness  
 
-5.	Repeat steps 2-4 with any other of the asset’s Audio Preservation Master files  
+5.	Repeat steps 2-4 with any of the asset’s remaining Audio Preservation Master files, as needed.    
 	
 6.	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:      
 •	the program content of the Audio Presentation Master is consistent with the program content of its corresponding Audio Preservation Master file(s).  
-•	any reconstruction of the asset from multiple Preservation Masters (file-joins, cross fades, level matching, etc.) is appropriate.
+•	any reconstruction of the asset (file-joins, cross fades, level matching, etc.) made in the Presentation Master from multiple Preservation Master files is appropriate.
 
