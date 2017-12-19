@@ -2,7 +2,7 @@
 
 The following workflow describes the non-automated, item-level workflow for manual Quality Control of the Himan Brown audio collection.
 
-The DAW illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
+The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
 ### Workflow
 
@@ -28,9 +28,9 @@ ADD IMAGE
 •	Cross-talk  
 •	De-emphasis (EQ)  
 •	File functionality  
-•	Phase.    
-•	Correlation.  
-•	Soundfield.   
+•	Phase    
+•	Correlation  
+•	Soundfield   
 •	Clipped samples  
 •	DC offset  
 •	Loudness  
