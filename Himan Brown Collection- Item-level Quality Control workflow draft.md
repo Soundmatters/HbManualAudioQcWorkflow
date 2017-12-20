@@ -16,7 +16,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 2.	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor view, generate Amplitude statistics for the Audio Preservation Master file.    
 Amplitude statistics.  
 
-[Amplitude statistics](qc_1.jpg)
+! [Amplitude statistics](qc_1.jpg)
 
 1.	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  Assure that the following aspects of the program are appropriate and confirm that:  
 •	the program content has not been cut short  
