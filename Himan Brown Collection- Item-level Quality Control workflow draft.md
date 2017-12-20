@@ -1,4 +1,4 @@
-## Item-level Manual Quality Control Workflow for the Himan Brown Audio Collection
+## Manual Item-level Quality Control Workflow
 
 The following workflow describes the non-automated, item-level workflow for manual Quality Control of the Himan Brown audio collection.
 
@@ -17,7 +17,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 
 Amplitude statistics example with some relavent QC data highlighted.  
 
-![Amplitude stats](qc_1.jpg)
+![Amplitude stats](qc_1.jpg - center
 
 3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  Assure that the following aspects of the program are appropriate and confirm that:  
 •	the program content has not been cut short  
