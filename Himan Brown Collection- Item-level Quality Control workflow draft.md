@@ -1,4 +1,4 @@
-## Manual Item-level Audio Quality Control Workflow
+## Manual, Item-level, Audio Quality Control Workflow
 
 The following workflow describes the non-automated, item-level workflow for manual Quality Control of the Himan Brown audio collection.
 
