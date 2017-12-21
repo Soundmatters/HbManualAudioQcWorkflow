@@ -1,6 +1,6 @@
 ## Manual, Item-level, Audio Quality Control Workflow
 
-The following workflow describes the manual, item-level workflow for manual Quality Control of the Himan Brown audio collection.
+The following workflow describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.
 
 The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
