@@ -1,6 +1,6 @@
 ## Manual, Item-level, Audio Quality Control Workflow
 
-The following workflow describes the non-automated, item-level workflow for manual Quality Control of the Himan Brown audio collection.
+The following workflow describes the manual, item-level workflow for manual Quality Control of the Himan Brown audio collection.
 
 The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
@@ -13,9 +13,9 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 •	File naming convention  
   
 
-2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor view, generate Amplitude statistics for the Audio Preservation Master file.   
+2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor view, generate Amplitude Statistics for the Audio Preservation Master file.   
 
-Amplitude statistics example with some relavent QC data highlighted.  
+Amplitude Statistics example with some relavent QC data highlighted.  
 
 ![Amplitude stats](qc_1.jpg)
 
@@ -24,7 +24,7 @@ Amplitude statistics example with some relavent QC data highlighted.
 •	the program content has no break in continuity  
 •	the program content is consistent with the data gathered in step one[see above]  
 
-4)	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file, as well as with signal analysis meters, and the amplitude statistics generated in step 2 above.   Assure that the following technical and production characteristics are consistant and appropriate:  
+4)	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file. Using the signal analysis meters and the Amplitude Statistics generated in step 2 (above), assure that the following technical and production characteristics are consistant and appropriate:  
 •	Speed  
 •	Playback direction  
 •	Channel balance  
