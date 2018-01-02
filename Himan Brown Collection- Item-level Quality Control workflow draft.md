@@ -13,11 +13,15 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 •	File naming convention  
   
 
-2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor view, generate Amplitude Statistics for the Audio Preservation Master file.   
+2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor view, generate Amplitude Statistics for the Audio Preservation Master file.  
 
-Amplitude Statistics example with some relavent QC data highlighted.  
+---
 
-![Amplitude stats](qc_1.jpg)
+*Example: amplitude statistics with some relavent QC data highlighted*  
+
+<p align="center"><img src="qc_1.jpg" /></p>
+
+---  
 
 3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  Assure that the following aspects of the program are appropriate and confirm that:  
 •	the program content has not been cut short  
@@ -39,9 +43,12 @@ Amplitude Statistics example with some relavent QC data highlighted.
 •	Loudness    
 
 
-Waveform example.
+---
+*Example:  audio waveform*  
+
 ![Waveform](qc_2.jpg)
 
+---
 5)	Repeat steps 2-4 with any of the asset’s remaining Audio Preservation Master files, as needed.    
 	
 6)	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:      
