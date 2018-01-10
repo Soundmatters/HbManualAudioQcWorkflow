@@ -1,12 +1,21 @@
 ## Manual, Item-level Audio Quality Control Workflow
 
-The following workflow describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.
+The following workflow describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
+
+For this workflow, you will need access to:
+
+>the asset's Filemaker record.  
+>the asset's photo documentation
+>the asset's preservation master(s).  
+>the asset's presentaion (access) master.  
+>Adobe Audition CC, or comparable digital audio workstation
+
 
 The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
 ### Workflow
 
-1)	For each asset, compare its FileMaker record, .tif files, Audio Preservation Master files, and the Presentation Master file.  Assure that the following are appropriate and consistent:  
+1)	For each asset, compare its FileMaker record, photo documentatio, Audio Preservation Master files, and the Presentation (access) Master file.  Assure that the following are appropriate and consistent:  
 •	Title  
 •	Date  
 •	Sequence (.tifs and Audio Preservation Master files only)  
