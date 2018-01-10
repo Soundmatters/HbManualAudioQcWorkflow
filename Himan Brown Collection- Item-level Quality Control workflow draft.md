@@ -5,7 +5,8 @@ The following workflow describes the manual, item-level workflow for Quality Con
 For this workflow, you will need access to:
 
 >the asset's Filemaker record.  
->the asset's photo documentation
+>the asset's photo documentation  
+
 >the asset's preservation master(s).  
 >the asset's presentaion (access) master.  
 >Adobe Audition CC, or comparable digital audio workstation
