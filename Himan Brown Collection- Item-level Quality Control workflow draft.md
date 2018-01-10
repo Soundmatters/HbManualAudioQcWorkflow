@@ -37,7 +37,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 •	the program content has no break in continuity  
 •	the program content is consistent with the data gathered in step one[see above]  
 
-4)	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file. Using the signal analysis meters and the Amplitude Statistics generated in step 2 (above), assure that the following technical and production characteristics are consistant and appropriate:  
+4)	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file. Using the DAW's signal analysis meters and the Amplitude Statistics generated in step 2 (above), assure that the following technical and production characteristics are consistant and appropriate:  
 •	Speed  
 •	Playback direction  
 •	Channel balance  
