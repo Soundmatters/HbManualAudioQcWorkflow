@@ -11,7 +11,7 @@ For this workflow, you will need access to:
 >Adobe Audition CC, or comparable digital audio workstation
 
 
-The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
+The Digital Audio Workstation (DAW) illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
 ### Workflow
 
