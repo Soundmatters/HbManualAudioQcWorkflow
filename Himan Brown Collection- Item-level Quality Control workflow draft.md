@@ -67,7 +67,8 @@ Durring the inspection, confirm that the following **technical and production ch
 ---
 4)	Repeat steps 2-4 with any of the asset’s remaining Audio Preservation Master files, as needed.    
 	
-5)	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat the procedure described in steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:      
+5)	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat the procedure described in steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:  
+
 * the program content of the Audio Presentation Master is consistent with the program content of its corresponding Audio Preservation Master file(s).  
 * any reconstruction of the asset (file-joins, cross fades, level matching, etc.) made in the Presentation Master from multiple Preservation Master files is appropriate.
 
