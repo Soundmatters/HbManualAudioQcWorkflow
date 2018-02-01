@@ -24,7 +24,7 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 * File naming convention  
   
 
-2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor, generate Amplitude Statistics for the asset's first Audio Preservation Master file.  
+2)	Load the first Audio Preservation Master file into Adobe Audition.  Using Audition's Waveform editor, generate Amplitude Statistics for the file.  
 
 ---
 
