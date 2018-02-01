@@ -32,12 +32,14 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 
 ---  
 
-3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  Assure that the following aspects of the program are appropriate and confirm that:  
+3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  
+
+Assure that the following aspects of the file's program content are consistant and appropriate:   
 •	the program content has not been cut short  
 •	the program content has no break in continuity  
 •	the program content is consistent with the data gathered in step one[see above]  
 
-4)	Inspect the audio file both visually and by playing back approximately thirty seconds from the head, middle and tail of the file. Using the DAW's signal analysis meters and the Amplitude Statistics generated in step 2 (above), assure that the following technical and production characteristics are consistant and appropriate:  
+Assure that the following technical and production characteristics are consistant and appropriate.  In addition to playing back approximately thirty seconds from the head, middle and tail of the file, use the DAW's signal analysis meters and the Amplitude Statistics generated in step 2 (above) to confirm the appropriatness of the signal's:  
 •	Speed  
 •	Playback direction  
 •	Channel balance  
@@ -58,9 +60,9 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 ![Waveform](qc_2.jpg)
 
 ---
-5)	Repeat steps 2-4 with any of the asset’s remaining Audio Preservation Master files, as needed.    
+4)	Repeat steps 2-4 with any of the asset’s remaining Audio Preservation Master files, as needed.    
 	
-6)	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:      
+5)	When all of the asset’s Audio Preservation Master files have been checked, load the asset’s Audio Presentation Master file into the workstation.  Repeat steps 2-4 of this workflow on the Audio Presentation Master file. Addtionaly, confirm that:      
 •	the program content of the Audio Presentation Master is consistent with the program content of its corresponding Audio Preservation Master file(s).  
 •	any reconstruction of the asset (file-joins, cross fades, level matching, etc.) made in the Presentation Master from multiple Preservation Master files is appropriate.
 
