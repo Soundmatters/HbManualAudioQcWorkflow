@@ -1,14 +1,16 @@
 ## Manual, Item-level Audio Quality Control Workflow
 
+
+### Overview
 The following workflow describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
 
 For this workflow, you will need access to:
 
->the asset's Filemaker record.  
->the asset's photo documentation.  
->the asset's preservation master(s).  
->the asset's presentaion (access) master.  
->Adobe Audition CC, or comparable digital audio workstation
+•	the asset's Filemaker record.  
+•	the asset's photo documentation.  
+•	the asset's preservation master(s).  
+•	the asset's presentaion (access) master.  
+•	Adobe Audition CC, or comparable digital audio workstation
 
 
 The Digital Audio Workstation (DAW) illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
@@ -34,12 +36,14 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 
 3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  
 
-Assure that the following aspects of the file's program content are consistant and appropriate:   
+Assure that the following aspects of the file's program content are consistant and appropriate:  
+
 •	the program content has not been cut short  
 •	the program content has no break in continuity  
 •	the program content is consistent with the data gathered in step one[see above]  
 
 Assure that the following technical and production characteristics are consistant and appropriate.  In addition to playing back approximately thirty seconds from the head, middle and tail of the file, use the DAW's signal analysis meters and the Amplitude Statistics generated in step 2 (above) to confirm the appropriatness of the signal's:  
+
 •	Speed  
 •	Playback direction  
 •	Channel balance  
