@@ -2,7 +2,7 @@
 
 
 ### Overview
-The following workflow describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
+The following workflow describes manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
 
 For this workflow, you will need access to:  
 
@@ -34,7 +34,7 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 
 ---  
 
-3)	Inspect the audio waveform, both visually and by playing back approximately thirty seconds from the head, middle and tail of the file.  
+3)	Inspect the audio waveform, both visually and by playing back and listening to approximately thirty seconds from the head, middle and tail of the file.  
 
 Durring the inspection, confirm that the following aspects of the file's **program content** are consistant and appropriate:  
 
