@@ -2,7 +2,7 @@
 
 
 ### Overview
-The following workflow describes manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
+The following document describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
 
 For this workflow, you will need access to:  
 
