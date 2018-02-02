@@ -1,10 +1,10 @@
-## Manual, Item-level Audio Quality Control Workflow
+## Manual Item-level Audio Quality Control Workflow
 
 
 ### Overview
-The following document describes the manual, item-level workflow for Quality Control of the Himan Brown audio collection.  
+The following document describes the manual item-level workflow for Quality Control of the Himan Brown audio collection.  
 
-For this workflow, you will need access to:  
+For this workflow you will need access to:  
 
 * the asset's Filemaker record    
 * the asset's photo documentation  
