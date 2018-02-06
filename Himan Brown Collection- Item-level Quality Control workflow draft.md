@@ -6,7 +6,7 @@ The following document describes the manual item-level workflow for Quality Cont
 
 For this workflow you will need access to:  
 
-* the asset's Filemaker record    
+* the asset's Filemaker record     
 * the asset's photo documentation  
 * the asset's preservation master(s)  
 * the asset's presentaion (access) master  
