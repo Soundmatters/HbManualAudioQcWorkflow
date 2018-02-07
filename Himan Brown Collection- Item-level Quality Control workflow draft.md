@@ -1,7 +1,7 @@
-## Manual Item-level Audio Quality Control Workflow
+# Manual Item-level Audio Quality Control Workflow
 
 
-### Overview
+## Overview
 The following document describes the manual item-level workflow for Quality Control of the Himan Brown audio collection.  
 
 For this workflow you will need access to:  
@@ -15,7 +15,7 @@ For this workflow you will need access to:
 
 The Digital Audio Workstation (DAW) illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11 
 
-### Workflow
+## Workflow
 
 1)	For each asset, compare its FileMaker record, photo documentation, Audio Preservation Master files, and the Presentation (access) Master file.  Assure that the following are appropriate and consistent:  
 * Title  
